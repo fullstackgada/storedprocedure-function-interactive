@@ -1,6 +1,6 @@
-# 🔧 Special Functions Interactive Demo with Jethalal & Babita
+# 🏪 Stored Procedure vs Function Interactive Demo with Jethalal & Bhide 
 
-A fun, Hindi-based, and interactive guide to **Special Functions** in Functional Programming, featuring **Jethalal** and **Babita** from _TMKOC_. This demo visually explains special function concepts using real-world analogies, code examples, and hands-on testing.
+A fun, Hindi-based, and interactive guide to **Stored Procedures** and **Functions** in SQL/Databases, featuring **Jethalal** and **Bhide** from _TMKOC_. This demo visually and practically explains the difference between stored procedures and functions using real-world analogies, code examples, and hands-on database testing.
 
 🔗 **Live Demo:** [storedprocedure-function-fullstackgad](https://storedprocedure-function-fullstackgad.netlify.app/)
 
@@ -9,22 +9,27 @@ A fun, Hindi-based, and interactive guide to **Special Functions** in Functional
 
 ## 🎯 Features
 
-- 🧠 Simple explanation of special function concepts in Hindi
-- 👩‍💼👨‍💼 Characters: Babita (learner) & Jethalal (explainer)
-- 📝 Code examples and interactive demos
-- 🖥️ Interactive area to test and see function outputs
-- 📊 Visualizations and real-world analogies
-- 📋 Comparison table of properties and use-cases
+- 🧠 Simple explanation of stored procedures and functions in Hindi
+- 👨‍🏫 Characters: Bhide (learner) & Jethalal (explainer)
+- 🗄️ Live demo database with Accounts, Employees, and Transactions tables
+- 🔧 Interactive money transfer using a simulated stored procedure
+- ⚡ Bonus calculation using a simulated SQL function
+- 📊 Performance comparison: regular query vs function vs procedure
+- 💬 TMKOC-style dialogues and explanations
+- 📋 Code editor panels for procedure and function SQL code
 - 📱 Fully responsive, modern, and colourful UI
 
 ---
 
 ## 📚 Topics Covered
 
-- What are special functions?
+- What is a stored procedure?
+- What is a function (in SQL)?
+- Differences between stored procedures and functions
+- When to use which (use-cases)
+- Performance comparison and best practices
 - Real-world analogies using TMKOC characters
 - Hands-on testing and visualization
-- Why these functions matter in programming
 
 ---
 
@@ -32,7 +37,7 @@ A fun, Hindi-based, and interactive guide to **Special Functions** in Functional
 
 - HTML5
 - CSS3 (with gradients, responsive design, animations)
-- JavaScript (vanilla)
+- JavaScript (vanilla, simulating database logic)
 - No external libraries or frameworks
 
 ---
@@ -43,4 +48,4 @@ A fun, Hindi-based, and interactive guide to **Special Functions** in Functional
 
 🤝 Follow on Instagram for more creative tech content!
 
-**Enjoy learning Special Functions the fun way!**
+**Enjoy learning Stored Procedures & Functions the fun way!**
